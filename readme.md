@@ -16,7 +16,7 @@ $ docker-compose composer require --dev phpunit/phpunit
 $ docker-compose run phpunit tests 
 ```
 
-# Acess Client Project 
+# Access Client Project 
 
 after running the project access via the url in your browser:
 
