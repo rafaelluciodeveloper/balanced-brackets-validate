@@ -9,6 +9,10 @@ $ docker-compose up -d fpm nginx
 # Run Tests
 
 ```bash
+$ docker-compose composer require --dev phpunit/phpunit 
+```
+
+```bash
 $ docker-compose run phpunit tests 
 ```
 
